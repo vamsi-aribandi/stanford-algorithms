@@ -1,9 +1,11 @@
 # stanford-algorithms
 Code I wrote for first 3 out of 4 Stanford algorithms MOOCs on coursera.org
+All programs were written in python 3.
 
 ## Some details
 All weeks of all courses here will have the relevent, working code for the programming assignments.
 Some extra code(not required for programming assignments, but taught in lectures) is also present.
+All code was tested with python 3.6.1
 
 ## Test cases
 All programs have a test case file as well as a file containing the answer(s) to that test case.
