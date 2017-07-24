@@ -1,0 +1,1 @@
+3 (with high probability - depends on how many times generate_cut() is called)

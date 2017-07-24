@@ -1,0 +1,2 @@
+difference: 68615
+ratio: 67247

@@ -1,0 +1,3 @@
+always partition about first element: 69
+always partition about last element: 65
+median of three: 56

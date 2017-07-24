@@ -1,0 +1,2 @@
+max length: 6
+min length: 3
